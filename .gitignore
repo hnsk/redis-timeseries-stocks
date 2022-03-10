@@ -1,0 +1,11 @@
+.venv
+venv
+env
+*__pycache__*
+dump.rdb
+redis/data/*
+stockdata/archives
+stockdata/nasdaq
+stockdata/nyse
+stockdata/tsx
+*.DS_Store
